@@ -33,7 +33,7 @@ Dynamic Data Cleaning Automation is a Python GUI application that helps users cl
 pip install pandas openpyxl
 ```
 
-### Step 2: Run Program
+### Step 2: Run program
 
 ```bash
 python app.py
